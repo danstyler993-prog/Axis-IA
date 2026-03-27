@@ -1,0 +1,7 @@
+{
+  "name": "AXIS - Analista Relacional",
+  "description": "Un analista de alto nivel en psicología relacional masculina y dinámica de atracción.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
